@@ -11,7 +11,7 @@
 /**
  * 
  */
-package com.steelthorn.android.watch.smartsquare;
+package com.steelthorn.android.watch.smartsquare; 
 
 import com.sonyericsson.extras.liveware.extension.util.ExtensionService;
 import com.sonyericsson.extras.liveware.extension.util.control.ControlExtension;
